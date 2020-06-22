@@ -5,7 +5,7 @@ painter = trtl.Turtle()
 painter.speed(0)
 painter.penup()
 painter.color("salmon")
-painter.pensize(2)
+painter.pensize(3)
 
 spiral_space = 0
 
